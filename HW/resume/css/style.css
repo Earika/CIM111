@@ -98,10 +98,11 @@ td{
   width: 250px;
 }
 img{
-  border-radius: 50px;
+  border-radius: 70px;
   border-style: solid;
-  border-color: lightgrey;
+  border-color: darkgrey;
   margin-left: 50px;
+
 
 }
 ul {
